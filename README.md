@@ -60,10 +60,9 @@ The Power BI report is divided into **three interactive views**:
 
 ---
 
-## 📎 Project Files
+## Live Dashboard Link
 
-- `Goodcabs_Operations_Dashboard.pbix` – Power BI file  
-- `Screenshots/` – Key views from the dashboard for quick preview
+https://app.powerbi.com/view?r=eyJrIjoiZDdhNDIxMzctYTlhOC00ZDZiLTkwNmYtMDY1MTE5NDA2NzYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
@@ -77,5 +76,5 @@ Special thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalpatel) & [Hem
 ## 🔗 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/tushar-singh-671075226/)**  
-- **[Portfolio](#)** (if applicable)
+
 
